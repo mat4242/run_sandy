@@ -1,0 +1,9 @@
+[package]
+name = "run_sandy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+text-colorizer= "1"
+rppal = "0.14.1"
+
